@@ -42,7 +42,7 @@ body {
 
 .menu {
 	padding: 1rem 2.25rem;
-	background-color: #fff;
+	background-color: rgb(255, 255, 255);
 	/* position: relative; */
 	width: calc(130px + 4 * 70px + 20rem);
 	/* display: -webkit-box;
